@@ -12,7 +12,7 @@ The initial dataset was processed to ensure accuracy and consistency before anal
 
 ## Data Analysis
 The cleaned dataset was analyzed using Pivot Tables and Pivot Charts to extract meaningful insights. The analysis covered the following areas:
-	•	Identification of the top five customers based on total sales.
+	•	Identification of the top five customers based on total sales.\n
 	•	Evaluation of sales by country to assess regional performance.
 	•	Examination of total sales by time, including monthly and yearly breakdowns to identify trends and seasonality.
 
